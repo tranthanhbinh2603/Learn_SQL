@@ -1,0 +1,13 @@
+﻿-- Tạo và sử dụng Database
+CREATE DATABASE LEARN_SQL
+GO
+
+USE LEARN_SQL
+GO
+
+--Xoá Database
+USE master
+GO
+
+DROP DATABASE LEARN_SQL
+GO
